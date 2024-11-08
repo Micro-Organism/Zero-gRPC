@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-grpc-server
+    profiles:
+        active: dev
+server:
+    port: 8080

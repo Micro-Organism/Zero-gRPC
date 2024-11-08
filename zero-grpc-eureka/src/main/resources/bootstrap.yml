@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-grpc-eureka
+    profiles:
+        active: dev
+server:
+    port: 8761
